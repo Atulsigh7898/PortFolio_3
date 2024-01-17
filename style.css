@@ -444,9 +444,28 @@ span{
     .about{
         grid-template-columns: 1fr;
         text-align: center;
+        margin-left: 40px;
+        width: 60vh;
+        
     }
     .about-img{
         order: 2;
+    }
+    .service{
+        margin-left: 40px;
+        width: 60vh;
+    }
+    .Portfolio{
+        margin-left: 10px;
+        width: 60vh;
+    }
+    .cta{
+        margin-left: 30px;
+        width: 60vh;
+    }
+    .contact{
+        margin-left: 30px;
+        width: 60vh;
     }
 }
 @media (max-width: 1700px){
